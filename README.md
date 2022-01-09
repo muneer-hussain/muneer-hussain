@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @muneer-hussain
+- 👀 I’m 8th grade school student
+- 🌱 I’m currently learning web development
